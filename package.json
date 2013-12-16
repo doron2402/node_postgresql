@@ -1,0 +1,14 @@
+{
+  "name": "NodeAppPostgres",
+  "version": "0.0.0",
+  "description": "node js with postgresql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doron Segal",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "~0.9.0"
+  }
+}
