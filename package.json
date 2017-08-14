@@ -9,6 +9,6 @@
   "author": "Doron Segal",
   "license": "MIT",
   "dependencies": {
-    "pg": "~0.9.0"
+    "pg": "~2.11.2"
   }
 }
